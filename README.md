@@ -1,43 +1,92 @@
-# 👋 Hi, I'm Sameeksha Rai
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Sameeksha Rai</h1>
+<h3 align="center">💻 AI Engineer | 🤖 ML Enthusiast | 📊 Data Scientist</h3>
 
-💻 AI Engineer | 🤖 Machine Learning Enthusiast | 📊 Data Science Practitioner  
-📍 India  
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=AI+Engineer;Machine+Learning+Enthusiast;Data+Science+Practitioner;Building+Real+World+AI+Solutions" />
+</p>
+
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sameekshagithub&label=Profile%20views&color=ff69b4&style=flat" alt="profile views"/>
+</p>
 
 ---
 
 ## 🚀 About Me
-I am an AI Engineer passionate about building intelligent systems that solve real-world problems.  
-With a strong foundation in Machine Learning and Data Science, I enjoy transforming data into actionable insights and deploying scalable AI solutions.
+<p>
+I am an <b>AI Engineer</b> passionate about building intelligent systems that solve real-world problems.<br>
+I love transforming data into insights and deploying scalable AI solutions.
+</p>
 
-- 🤖 Focused on AI, Machine Learning & Predictive Modeling  
-- 📊 Experienced in data analysis, feature engineering & model building  
-- 🚀 Interested in deploying ML models using modern tools  
-- 📚 Continuously learning and exploring advanced AI concepts  
+<ul>
+  <li>🤖 AI, Machine Learning & Predictive Modeling</li>
+  <li>📊 Data Analysis, Feature Engineering & Model Building</li>
+  <li>🚀 ML Deployment using modern tools</li>
+  <li>📚 Continuously learning advanced AI concepts</li>
+</ul>
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages & Tools:**  
-Python • Pandas • NumPy • Scikit-learn  
 
-**Machine Learning:**  
-Supervised & Unsupervised Learning • Feature Engineering • Model Evaluation  
+### 💻 Languages & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=git" />
+</p>
 
-**Visualization & Deployment:**  
-Streamlit • Tableau • Matplotlib • Seaborn  
+### 🤖 Machine Learning
+<p>
+✔️ Supervised Learning <br>
+✔️ Unsupervised Learning <br>
+✔️ Feature Engineering <br>
+✔️ Model Evaluation
+</p>
+
+### 📊 Visualization & Deployment
+<p>
+Streamlit • Tableau • Matplotlib • Seaborn
+</p>
+
 ---
 
 ## 📈 What I'm Working On
-- Building end-to-end ML pipelines  
-- Improving model performance with advanced feature engineering  
-- Exploring AI deployment & real-time applications  
+<ul>
+  <li>🚀 End-to-End ML Pipelines</li>
+  <li>📊 Advanced Feature Engineering</li>
+  <li>⚡ Real-Time AI Applications</li>
+</ul>
 
 ---
 
-## 📫 Connect With Me
-- 🔗 LinkedIn: www.linkedin.com/in/sameeksha152
-- 💻 GitHub: https://github.com/Sameekshagithub
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sameekshagithub&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameekshagithub&theme=radical" />
+</p>
 
 ---
 
-⭐ *“Turning data into intelligent solutions through AI.”*
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sameeksha152">
+    <img src="https://img.shields.io/badge/LinkedIn-%23E4405F.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Sameekshagithub">
+    <img src="https://img.shields.io/badge/GitHub-%23E4405F.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ✨ Quote
+
+<p align="center">
+  <i>“Turning data into intelligent solutions through AI.”</i>
+</p>
