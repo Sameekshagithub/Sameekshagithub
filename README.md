@@ -197,14 +197,6 @@ Streamlit • GitHub • VS Code • Jupyter Notebook • Google Colab
   </a>
 </p>
 ---
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameekshagithub&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameekshagithub&layout=compact&theme=radical" alt="Top Languages" height="165" />
-</p>
----
 
 # 🔥 GitHub Streak
 
