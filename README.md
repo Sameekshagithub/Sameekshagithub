@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Sameeksha Rai</h1>
-<h3 align="center">💻 AI Engineer | 🤖 ML Enthusiast | 📊 Data Scientist </h3>
+<h3 align="center"> AI Engineer |  ML Enthusiast |  Data Scientist </h3>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
