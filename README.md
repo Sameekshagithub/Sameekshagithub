@@ -411,22 +411,6 @@ Hugging Face Transformers</b>, and AI agents.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameekshagithub&show_icons=true&theme=radical&hide_border=true"/>
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameekshagithub&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
 # ✨ Quote
 
 <p align="center">
