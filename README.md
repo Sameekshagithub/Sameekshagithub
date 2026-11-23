@@ -79,7 +79,7 @@ I am a Computer Science Engineering graduate specializing in Artificial Intellig
 
 ---
 
-# 💼 Experience
+# 💼 Internship Experience
 
 ## 🤖 AI & Data Science Trainee Intern
 
