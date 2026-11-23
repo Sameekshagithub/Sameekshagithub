@@ -19,108 +19,111 @@
 </p>
 
 ---
-
 # 🛠️ Tech Stack
 
 <p align="center">
 
-<!-- Programming -->
+<!-- Programming Languages -->
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql" height="55"/>
+<img src="https://skillicons.dev/icons?i=python" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=c" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=java" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="80" height="80"/>
 
-<br><br>
+<br>
 
-<!-- AI / ML -->
+<!-- AI / Machine Learning -->
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" height="55"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=opencv" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=sklearn" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=keras" width="80" height="80"/>
 
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=nltk&logoColor=white"/>
-
-<br><br>
-
-<!-- Generative AI -->
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LlamaIndex-6B4FBB?style=for-the-badge&logo=llamaindex&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-<br><br>
-
-<!-- Databases -->
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="55"/>
-
-<img src="https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
-
-<br><br>
+<br>
 
 <!-- Data Science -->
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=numpy" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=pandas" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=matplotlib" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=powerbi" width="80" height="80"/>
 
-<br><br>
+<br>
+
+<!-- Generative AI -->
+
+<img src="https://skillicons.dev/icons?i=huggingface" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=langchain" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=llamaindex" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=openai" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=transformers" width="80" height="80"/>
+
+<br>
+
+<!-- Databases -->
+
+<img src="https://skillicons.dev/icons?i=mysql" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="80" height="80"/>
+
+<br>
+
+<!-- Vector Databases -->
+
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge&logo=databricks&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Qdrant-D00000?style=for-the-badge&logo=qdrant&logoColor=white" height="40"/>
+
+<br>
 
 <!-- Cloud -->
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure" height="55"/>
+<img src="https://skillicons.dev/icons?i=aws" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=gcp" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=azure" width="80" height="80"/>
 
-<br><br>
+<br>
 
-<!-- Deployment / MLOps -->
+<!-- MLOps / Deployment -->
 
-<img src="https://skillicons.dev/icons?i=docker" height="55"/>
+<img src="https://skillicons.dev/icons?i=docker" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=flask" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=fastapi" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=streamlit" width="80" height="80"/>
 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<br>
 
-<br><br>
+<!-- Web Technologies -->
 
-<!-- Web -->
+<img src="https://skillicons.dev/icons?i=html" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=css" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=javascript" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=php" width="80" height="80"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,php" height="55"/>
-
-<br><br>
+<br>
 
 <!-- Development Tools -->
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" height="55"/>
+<img src="https://skillicons.dev/icons?i=git" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=github" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=jupyter" width="80" height="80"/>
+<img src="https://skillicons.dev/icons?i=colab" width="80" height="80"/>
 
 </p>
 
 ---
 
+
+---
+
 # 👩‍💻 About Me
 
-I am a Computer Science Engineering graduate specializing in Artificial Intelligence, Machine Learning, Data Science, and Generative AI.
-
-I enjoy building practical AI solutions that combine machine learning, deep learning, NLP, computer vision, and modern LLM technologies.
-
-My areas of interest include:
-
-- Artificial Intelligence & Machine Learning
-- Generative AI & Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- Natural Language Processing
-- Computer Vision
-- Data Science & Predictive Analytics
-- AI Agents & Automation
-- End-to-End AI Application Development
-
-I am continuously learning and working on real-world AI projects to strengthen my technical and problem-solving skills.
+I am a Computer Science Engineering graduate specializing in Artificial Intelligence, Machine Learning, Data Science, and Generative AI. I enjoy building practical, end-to-end AI solutions using machine learning, deep learning, NLP, computer vision, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG). I am passionate about transforming data into intelligent solutions and continuously expanding my technical skills by working on real-world AI projects.
 
 ---
 
