@@ -25,97 +25,103 @@
 
 <!-- Programming Languages -->
 
-<img src="https://skillicons.dev/icons?i=python" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=c" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=java" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="80" height="80"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br>
 
 <!-- AI / Machine Learning -->
 
-<img src="https://skillicons.dev/icons?i=tensorflow" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=pytorch" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=opencv" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=sklearn" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=keras" width="80" height="80"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/>
 
 <br>
 
-<!-- Data Science -->
+<!-- NLP -->
 
-<img src="https://skillicons.dev/icons?i=python" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=numpy" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=pandas" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=matplotlib" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=powerbi" width="80" height="80"/>
+<img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=nltk&logoColor=white"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
 <br>
 
 <!-- Generative AI -->
 
-<img src="https://skillicons.dev/icons?i=huggingface" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=langchain" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=llamaindex" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=openai" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=transformers" width="80" height="80"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LlamaIndex-6B4FBB?style=for-the-badge&logo=llamaindex&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
 
 <br>
 
-<!-- Databases -->
+<!-- Databases & Vector Stores -->
 
-<img src="https://skillicons.dev/icons?i=mysql" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=mongodb" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="80" height="80"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-D00000?style=for-the-badge&logo=qdrant&logoColor=white"/>
 
 <br>
 
-<!-- Vector Databases -->
+<!-- Data Science & Visualization -->
 
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge&logo=databricks&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Qdrant-D00000?style=for-the-badge&logo=qdrant&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 <br>
 
 <!-- Cloud -->
 
-<img src="https://skillicons.dev/icons?i=aws" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=gcp" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=azure" width="80" height="80"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 <br>
 
-<!-- MLOps / Deployment -->
+<!-- MLOps & Deployment -->
 
-<img src="https://skillicons.dev/icons?i=docker" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=flask" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=fastapi" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=streamlit" width="80" height="80"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 <br>
 
 <!-- Web Technologies -->
 
-<img src="https://skillicons.dev/icons?i=html" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=css" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=javascript" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=php" width="80" height="80"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
 <br>
 
 <!-- Development Tools -->
 
-<img src="https://skillicons.dev/icons?i=git" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=github" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=jupyter" width="80" height="80"/>
-<img src="https://skillicons.dev/icons?i=colab" width="80" height="80"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
 </p>
-
 ---
 
 
