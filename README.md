@@ -111,7 +111,7 @@ I am a Computer Science Engineering graduate specializing in Artificial Intellig
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 🌐 TuluAI – Multimodal AI-Powered Tulu Language Platform
 
